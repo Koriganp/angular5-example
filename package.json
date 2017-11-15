@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/GKephart/angular5-example"
+    "url": "https://github.com/Koriganp/angular5-example"
   },
   "dependencies": {
     "@angular/common": "^5.0.0",
